@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: vipulgupta2048.me
+Label: vipulgupta2048.me
+Codename: focal
+Date: Sat, 12 Dec 2020 20:52:39 UTC
+Architectures: amd64
+Components: main
+Description: balenaCLI
+MD5Sum:
+ b1c78abd085d1119e0ec93ac6facb587 423 main/binary-amd64/Packages
+ ade21b2490972c71c40f866e3db34126 326 main/binary-amd64/Packages.gz
+ cfb2fffce92505c45d09637845f03674 110 main/binary-amd64/Release
+SHA1:
+ b770c27cc50ddf8ac3b1e803561825ce71294c44 423 main/binary-amd64/Packages
+ a004d1d3d4191dff948b7c091411924a3e535a66 326 main/binary-amd64/Packages.gz
+ bd4fc4254da127821107da46f3693a441ea5d8ec 110 main/binary-amd64/Release
+SHA256:
+ 24cc8a0e317936afb8af38b25a1ff46b264a68f952a32e1d71c81dab4bc18977 423 main/binary-amd64/Packages
+ 085ed961a2cadb8795a80fb1c1e97273cd0da52f8ecc0db515b2b94d98edb63e 326 main/binary-amd64/Packages.gz
+ 85a49910d200ab976ce29dea129d9d48f832b13b23133db76b4e706007559e9d 110 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEoCfrG97VFlhHDmaO+7ECxCqZ0vEFAl/VLZcACgkQ+7ECxCqZ
+0vFaRwv/Y4oNlmWWP35AGe5Nm1wG7H7SIb59JYI3odsbgaCKIbxS2yKmDyzZ97Yx
+G+TCYHY+R+LaAr62QU6mGTB6RzGdD/Fi6COX1PBNnklI7GyHeUrrP7mSpzJzfhEH
+apwHlZbPngYIBZFB1izMLN6sRCZk10racyVX8h1N1giWUhyTmLDC40hdxG2PW60H
+mTYKN8UI8v2A2NuCnu68vjcGV9u0C76mYq5+0zcL4Ay+S3abuU3ECH1NXWlhshya
+4q83iPyzTahltjYOhApovQ8sshaOpRiIyGo3/sTi2Np+gi/Fw0/xAOcC+IQ5Rr6K
+NRzYSKqiI62MngYd5VGW7kiYRsryHEkXvS2VCnlDFerGuLOGsaVOrgysQNMl1XgP
+OYqMayy2RXcAQBEodK9ct6kAtZ234EV7dRYQ75zVoc8MyL4T2O0mDARKgzcsq1lk
+eaLtjth6JEOZLohUy/T1F0RWng/18F7vouHzdC9n4wtGQ7NZD+FKE2/rQMu/5rMu
+eDbKDbI3
+=NH8H
+-----END PGP SIGNATURE-----

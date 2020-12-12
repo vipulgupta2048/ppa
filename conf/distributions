@@ -1,0 +1,7 @@
+Origin: vipulgupta2048.me/ppa
+Label: vipulgupta2048.me/ppa
+Codename: focal
+Architectures: amd64
+Components: main
+Description: balenaCLI
+SignWith: FBB102C42A99D2F1

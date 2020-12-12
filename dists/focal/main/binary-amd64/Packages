@@ -1,0 +1,13 @@
+Package: balena
+Version: 12.33.1-1
+Architecture: amd64
+Maintainer: Juan Cruz Viotti <juan@balena.io>
+Priority: standard
+Section: main
+Filename: pool/main/b/balena/balena_12.33.1-1_amd64.deb
+Size: 50423292
+SHA256: afbd6158e84398127bb3f8c070179ab9bbdfde7a7f7022e7fdc578044371b229
+SHA1: 06654b3ba419bbafc0261a585b20be7beff95d58
+MD5sum: 56999499dcd59a7305431bb125137302
+Description: The official balena Command Line Interface
+
