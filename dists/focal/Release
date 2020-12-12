@@ -1,19 +1,19 @@
-Origin: vipulgupta2048.me/ppa
-Label: vipulgupta2048.me/ppa
+Origin: vipulgupta.me/ppa/dists
+Label: vipulgupta.me/ppa/dists
 Codename: focal
-Date: Sat, 12 Dec 2020 21:20:02 UTC
+Date: Sat, 12 Dec 2020 21:26:47 UTC
 Architectures: amd64
 Components: main
 Description: balenaCLI
 MD5Sum:
  b1c78abd085d1119e0ec93ac6facb587 423 main/binary-amd64/Packages
  ade21b2490972c71c40f866e3db34126 326 main/binary-amd64/Packages.gz
- 9a1b84c8ce32199cbbda89dcc32ba7ac 118 main/binary-amd64/Release
+ 134bc91935c913d358772de1849dc2a6 122 main/binary-amd64/Release
 SHA1:
  b770c27cc50ddf8ac3b1e803561825ce71294c44 423 main/binary-amd64/Packages
  a004d1d3d4191dff948b7c091411924a3e535a66 326 main/binary-amd64/Packages.gz
- f387f6ea1079b4132a223d0cfd5c74dd0478711d 118 main/binary-amd64/Release
+ 32809cb640ffb34a77b7bbf25ad2c1b63c5f9c0f 122 main/binary-amd64/Release
 SHA256:
  24cc8a0e317936afb8af38b25a1ff46b264a68f952a32e1d71c81dab4bc18977 423 main/binary-amd64/Packages
  085ed961a2cadb8795a80fb1c1e97273cd0da52f8ecc0db515b2b94d98edb63e 326 main/binary-amd64/Packages.gz
- 55a5bb98703ff7e886f9daa7a1face3a7ac26cad3b17c3ee0c40deb6d6b4f704 118 main/binary-amd64/Release
+ 79d2b3432ef8d6ed8bed06ae6525d7e017a0741c9489fcc7c2fa51b0bc77b8b2 122 main/binary-amd64/Release
