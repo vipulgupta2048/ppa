@@ -1,5 +1,5 @@
-Origin: vipulgupta.me/ppa/dists
-Label: vipulgupta.me/ppa/dists
+Origin: vipulgupta.me/ppa/
+Label: vipulgupta.me/ppa/
 Codename: focal
 Architectures: amd64
 Components: main

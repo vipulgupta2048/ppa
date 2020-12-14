@@ -1,5 +1,5 @@
 Component: main
-Origin: vipulgupta.me/ppa/dists
-Label: vipulgupta.me/ppa/dists
+Origin: vipulgupta.me/ppa/
+Label: vipulgupta.me/ppa/
 Architecture: amd64
 Description: balenaCLI
